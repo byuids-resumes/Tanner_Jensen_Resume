@@ -79,6 +79,10 @@ __Service Missionary__, South Africa
 
 <!-- ### Footer
 
+git config --global user.name "Tanner Jensen"
+git config --global user.email "jen15028@byui.edu"
+
+
 Last updated: May 2013 -->
 
 
