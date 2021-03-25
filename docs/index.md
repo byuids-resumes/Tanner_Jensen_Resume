@@ -2,7 +2,7 @@
 layout: cv
 title: Tanner Jensen's Resume
 ---
-# Tanner W. Jensen
+# Tanner W. Jensen is the best
 Data science student at BYU-Idaho
 
 <div id="webaddress">
