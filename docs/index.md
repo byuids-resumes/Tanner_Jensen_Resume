@@ -19,7 +19,7 @@ Data science student at BYU-Idaho
 `Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 3.4 Major GPA
+- BS Data Science, Economics Minor - 3.4 Major GPA
 
 
 ## Related Experience
