@@ -58,7 +58,7 @@ __Investment Society | BYU-Idaho__, Rexburg, ID
 
 ## Service and Work History
 
-`2023-2025`
+`2016-2018`
 __Service Missionary__, Guatemala
 
 
