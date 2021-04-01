@@ -2,7 +2,7 @@
 layout: cv
 title: Tanner Jensen's Resume
 ---
-# Tanner W. Jensen is the best
+# Tanner W. Jensen
 Data science student at BYU-Idaho
 
 <div id="webaddress">
@@ -24,56 +24,42 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Related Experience
 
-### Internships
+### Student Data Analyst
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`January 2021 - April 2021`
+__Data Science Society | BYU-Idaho__, Rexburg, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Mined and analyzed geospatial route data with osrmRoute for future predictive modeling.
+- Calculated route distances from highway exits to nearest point of interest.
 
-### Data Science Lead
+### Personal Project
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`January 2021 - April 2021`
+__Economic Impact Analysis__, Rexburg, ID
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Cleaned and tidied data sets with over 520,000 values for accurate analysis and inquiry.
+- Created a visualization summarizing the effect of average temperature on state GDP per capita.
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+### Research Analyst Intern
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`January 2020 - April 2020`
+__Research and Business Development Center__, Rexburg, ID
 
-### Data Science Consulting Team
+- Developed an alternative funding network for venture capital firms in the state of Idaho, boosting state-wide efficiency.
+- Coordinated with 4 other interns to research and provide essential company information on over 1,000 Idaho-based firms.
 
-`January 2027 - April 2027`
-__Imagine Learning__
+### Fixed Income Analyst
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+`September 2019 - April 2020`
+__Investment Society | BYU-Idaho__, Rexburg, ID
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+- Analyzed bond rates in relation to current and future bond yields using Bloomberg in order to provide an optimal allocation for a $5 million endowment fund.
+- Presented fixed income allocation recommendation to university staff and other students.
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
 `2023-2025`
-__Service Missionary__, South Africa
+__Service Missionary__, Guatemala
 
 
 
